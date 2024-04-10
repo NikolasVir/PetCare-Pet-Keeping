@@ -17,7 +17,7 @@ To ensure the proper functioning of the PetCare-Pet-Keeping system, please adher
 - **ChatGPT Integration**: Currently not operational due to an "Exceeded Limit Quota" error.
 - **Admin Functions**: The ability to delete users as an admin is not functional.
 - **Account Modifications**: Changing account details is not possible for both PetKeepers and PetOwners at this time.
-- **Java Compatibility**: For older versions of Java, it is necessary to import `jakarta.servlet.http.HttpServlet` instead of `javax.servlet.http.HttpServlet`.
+- **Java Compatibility**: For older versions of Java, it is necessary to import `jakarta.servlet.http.HttpServlet` instead of `javax.servlet.http.HttpServlet` etc.
 
 ---
 
