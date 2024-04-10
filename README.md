@@ -7,7 +7,7 @@ Requirements:
 1. Xampp installed
 2. TomCat installed and configured
 3. Import Project and resolve Jettison Library location
-4. If a database does not exists create one with DataBase Creator
+4. If a database does not exists create one with DataBase Creator (xampp+topcat+interact from website)
    
 
 Notes: 
@@ -15,3 +15,4 @@ Notes:
 2. ChatGPT does not work because of "Exceeded Limit Quota" error
 3. Delete User as Admin does not work.
 4. Changing acxount details does not work for both types of users: PetKeepers and PetOwners.
+5. Older versions of Java need import **jakarta**.servlet.http.HttpServlet; instead of javax.
