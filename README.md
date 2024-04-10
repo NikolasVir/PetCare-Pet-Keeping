@@ -22,6 +22,8 @@ To ensure the proper functioning of the PetCare-Pet-Keeping system, please adher
 ---
 
 ## Usage Examples:
+General Usage:
 ![til](./GIFS/PETCARE_PRESENTATION.gif)
+Chat:
 ![til](./GIFS/CHAT_PRESENTATION.gif)
 
