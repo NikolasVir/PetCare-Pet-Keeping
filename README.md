@@ -1,5 +1,7 @@
 # PetCare-Pet-Keeping
 
+This is a Pet Keeping management system for Pet Owners and Pet Keepers for cource CS359-Web Programming.
+
 Requirements:
 1. Xampp installed
 2. TomCat installed and configured
