@@ -1,18 +1,26 @@
-# PetCare-Pet-Keeping
+PetCare-Pet-Keeping
+Welcome to PetCare-Pet-Keeping, a comprehensive management system designed for Pet Owners and Pet Keepers. This project is part of the CS359-Web Programming course. For a detailed overview, please refer to the “project_details.pdf” file available in Greek.
 
-This is a Pet Keeping management system for Pet Owners and Pet Keepers for cource CS359-Web Programming. More details can be found in the "project_details.pdf" file (Greek).
-Important: the Data Base and some basic functions were created from the course instructor, but I made additional functions that interact with it.
+Important: The database and some fundamental functions were initially created by the course instructor. I have contributed additional functionalities that enhance interaction with the existing system.
 
-Requirements:
-1. Xampp installed
-2. TomCat installed and configured
-3. Import Project and resolve Jettison Library location
-4. If a database does not exists create one with DataBase Creator (xampp+topcat+interact from website)
-   
+Requirements
+To ensure the proper functioning of the PetCare-Pet-Keeping system, please adhere to the following requirements:
 
-Notes: 
-1. No Bonus was implemented.
-2. ChatGPT does not work because of "Exceeded Limit Quota" error
-3. Delete User as Admin does not work.
-4. Changing acxount details does not work for both types of users: PetKeepers and PetOwners.
-5. Older versions of Java need import **jakarta**.servlet.http.HttpServlet; instead of javax.
+XAMPP: Ensure XAMPP is installed on your system.
+TomCat: TomCat must be installed and correctly configured.
+Project Import: Import the project into your IDE and resolve the Jettison Library location.
+Database Creation: If a database does not exist, create one using the DataBase Creator (interact with the website after setting up XAMPP and TomCat).
+Notes
+No bonus features were implemented in this version.
+The ChatGPT functionality is currently unavailable due to an “Exceeded Limit Quota” error.
+The ‘Delete User’ feature for Admins is non-functional.
+Modifying account details is not operational for both user types: PetKeepers and PetOwners.
+For older versions of Java, it is necessary to import jakarta.servlet.http.HttpServlet instead of javax.servlet.http.HttpServlet.
+GIF Demonstrations
+Here are a couple of GIFs that illustrate the system in action:
+
+!GIF Demo 1 !GIF Demo 2
+
+Note: Replace the # in the image source with the actual URL of the GIFs.
+
+Feel free to adjust the content as needed, and remember to insert the actual URLs for the GIF demonstrations where indicated.
