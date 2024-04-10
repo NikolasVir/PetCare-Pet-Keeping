@@ -21,9 +21,7 @@ To ensure the proper functioning of the PetCare-Pet-Keeping system, please adher
 
 ---
 
-*Please note that the following GIFs are placeholders to illustrate where actual GIFs demonstrating the system should be placed.*
+## Usage Examples:
 
-![GIF Placeholder](#)
-![GIF Placeholder](#)
-
-*For the actual GIFs, please replace the placeholders with the appropriate links to the GIF files showcasing the system in action.*
+![til]
+![til]
