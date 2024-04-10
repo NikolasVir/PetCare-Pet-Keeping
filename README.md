@@ -1,6 +1,6 @@
 # PetCare-Pet-Keeping
 
-This is a Pet Keeping management system for Pet Owners and Pet Keepers for cource CS359-Web Programming.
+This is a Pet Keeping management system for Pet Owners and Pet Keepers for cource CS359-Web Programming. More details can be found in the "project_details.pdf" file (Greek).
 
 Requirements:
 1. Xampp installed
