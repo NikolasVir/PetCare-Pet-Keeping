@@ -8,5 +8,7 @@ Requirements:
    
 
 Notes: 
-1. Delete User as Admin does not work.
-2. Changing acxount details does not work for both types of users: PetKeepers and PetOwners.
+1. No Bonus was implemented.
+2. ChatGPT does not work because of "Exceeded Limit Quote" error
+3. Delete User as Admin does not work.
+4. Changing acxount details does not work for both types of users: PetKeepers and PetOwners.
